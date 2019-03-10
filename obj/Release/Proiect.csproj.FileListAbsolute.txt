@@ -1,0 +1,16 @@
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\bin\Release\Proiect.exe.config
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\bin\Release\Proiect.exe
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\bin\Release\Proiect.pdb
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\obj\Release\Proiect.csprojAssemblyReference.cache
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\obj\Release\WindowMain.g.cs
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\obj\Release\App.g.cs
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\obj\Release\Proiect_MarkupCompile.cache
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\obj\Release\Proiect_MarkupCompile.lref
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\obj\Release\WindowMain.baml
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\obj\Release\Proiect.g.resources
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\obj\Release\Proiect.Properties.Resources.resources
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\obj\Release\Proiect.csproj.GenerateResource.cache
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\obj\Release\Proiect.csproj.CoreCompileInputs.cache
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\obj\Release\Proiect.exe
+D:\Facultate\Inteligență Artificială\VS_IA\Proiect\obj\Release\Proiect.pdb
